@@ -2,7 +2,7 @@
 -- Version 1.0 12/15/2012
 
 -- Config
-local author = "mrkmg"
+local author = "JoshTheRiPPeR"
 local project = "cc_turtle"
 local branch = "master"
 
